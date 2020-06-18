@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Swift libraries",
+    "description": "Designing reusable Swift libraries, and packaging generic concept",
+    "type": "Swift",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 2,
+    "name": "Kotlin Coroutines",
+    "description": "First things first and cancellation and exceptions in Coroutines",
+    "type": "Kotlin",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 3,
+    "name": "Angular RX",
+    "description": "How to RxJS in Angular, and Observable-streams",
+    "type": "Angular",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 4,
+    "name": "React Reuseable",
+    "description": "How to write highly readable React code",
+    "type": "React",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 5,
+    "name": "Vue Start",
+    "description": "Making the Move from jQuery to Vue and simpify the works",
+    "type": "Vue",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 6,
+    "name": "Swift Function",
+    "description": "Writing small utility functions in Swift",
+    "type": "Swift",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 7,
+    "name": "Kotlin Vocabulary",
+    "description": "Switching on enums, and R8 optimization",
+    "type": "Kotlin",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 8,
+    "name": "Angualr Comps",
+    "description": "Google Maps is now an Angular component",
+    "type": "Angular",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 9,
+    "name": "React KB",
+    "description": "All fundamentals concepts, jammed into this single Medium article",
+    "type": "React",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 10,
+    "name": "Angualr Optimize",
+    "description": "Optimize Angular bundle size in 4 steps",
+    "type": "Angular",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 11,
+    "name": "Vue API",
+    "description": "Simple Photo App with Vue.js, Axios and Flickr API",
+    "type": "Vue",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  },
+  {
+    "id": 12,
+    "name": "Vue Testing",
+    "description": "Testing your Vue app with Jest and Travis CI",
+    "type": "Vue",
+    "preview": "https://fakeimg.pl/650x450/000000/"
+  }
+]
